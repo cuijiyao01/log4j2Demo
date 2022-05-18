@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1853ef33-6a58-4328-9fb2-c55de90a1752" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/Cellar/maven/3.6.3/libexec" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="22aEswzNEkxLHMqNzfQJExfnhBx" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager" selected="Application.Log4jTest">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="log4j2Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Log4jTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Log4jTest" />
+      <module name="log4j2Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RMIServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.rmi.RMIServer" />
+      <module name="log4j2Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.rmi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Log4jTest" />
+        <item itemvalue="Application.RMIServer" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1853ef33-6a58-4328-9fb2-c55de90a1752" name="Default Changelist" comment="" />
+      <created>1640067507874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640067507874</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1737" height="253" key="GridCell.Tab.0.bottom" timestamp="1640160182290">
+      <screen x="0" y="25" width="1792" height="1028" />
+    </state>
+    <state width="1737" height="253" key="GridCell.Tab.0.bottom/0.25.1792.1022@0.25.1792.1022" timestamp="1640070110076" />
+    <state width="1737" height="253" key="GridCell.Tab.0.bottom/0.25.1792.1025@0.25.1792.1025" timestamp="1640070673579" />
+    <state width="1737" height="253" key="GridCell.Tab.0.bottom/0.25.1792.1028@0.25.1792.1028" timestamp="1640160182290" />
+    <state width="1737" height="253" key="GridCell.Tab.0.bottom/0.25.1792.1029@0.25.1792.1029" timestamp="1640159920559" />
+    <state width="1737" height="253" key="GridCell.Tab.0.center" timestamp="1640160182289">
+      <screen x="0" y="25" width="1792" height="1028" />
+    </state>
+    <state width="1737" height="253" key="GridCell.Tab.0.center/0.25.1792.1022@0.25.1792.1022" timestamp="1640070110075" />
+    <state width="1737" height="253" key="GridCell.Tab.0.center/0.25.1792.1025@0.25.1792.1025" timestamp="1640070673578" />
+    <state width="1737" height="253" key="GridCell.Tab.0.center/0.25.1792.1028@0.25.1792.1028" timestamp="1640160182289" />
+    <state width="1737" height="253" key="GridCell.Tab.0.center/0.25.1792.1029@0.25.1792.1029" timestamp="1640159920558" />
+    <state width="1737" height="253" key="GridCell.Tab.0.left" timestamp="1640160182289">
+      <screen x="0" y="25" width="1792" height="1028" />
+    </state>
+    <state width="1737" height="253" key="GridCell.Tab.0.left/0.25.1792.1022@0.25.1792.1022" timestamp="1640070110075" />
+    <state width="1737" height="253" key="GridCell.Tab.0.left/0.25.1792.1025@0.25.1792.1025" timestamp="1640070673578" />
+    <state width="1737" height="253" key="GridCell.Tab.0.left/0.25.1792.1028@0.25.1792.1028" timestamp="1640160182289" />
+    <state width="1737" height="253" key="GridCell.Tab.0.left/0.25.1792.1029@0.25.1792.1029" timestamp="1640159920557" />
+    <state width="1737" height="253" key="GridCell.Tab.0.right" timestamp="1640160182290">
+      <screen x="0" y="25" width="1792" height="1028" />
+    </state>
+    <state width="1737" height="253" key="GridCell.Tab.0.right/0.25.1792.1022@0.25.1792.1022" timestamp="1640070110075" />
+    <state width="1737" height="253" key="GridCell.Tab.0.right/0.25.1792.1025@0.25.1792.1025" timestamp="1640070673579" />
+    <state width="1737" height="253" key="GridCell.Tab.0.right/0.25.1792.1028@0.25.1792.1028" timestamp="1640160182290" />
+    <state width="1737" height="253" key="GridCell.Tab.0.right/0.25.1792.1029@0.25.1792.1029" timestamp="1640159920558" />
+    <state width="1737" height="315" key="GridCell.Tab.1.bottom" timestamp="1640068450162">
+      <screen x="0" y="25" width="1792" height="1025" />
+    </state>
+    <state width="1737" height="315" key="GridCell.Tab.1.bottom/0.25.1792.1025@0.25.1792.1025" timestamp="1640068450162" />
+    <state width="1737" height="315" key="GridCell.Tab.1.center" timestamp="1640068450161">
+      <screen x="0" y="25" width="1792" height="1025" />
+    </state>
+    <state width="1737" height="315" key="GridCell.Tab.1.center/0.25.1792.1025@0.25.1792.1025" timestamp="1640068450161" />
+    <state width="1737" height="315" key="GridCell.Tab.1.left" timestamp="1640068450161">
+      <screen x="0" y="25" width="1792" height="1025" />
+    </state>
+    <state width="1737" height="315" key="GridCell.Tab.1.left/0.25.1792.1025@0.25.1792.1025" timestamp="1640068450161" />
+    <state width="1737" height="315" key="GridCell.Tab.1.right" timestamp="1640068450161">
+      <screen x="0" y="25" width="1792" height="1025" />
+    </state>
+    <state width="1737" height="315" key="GridCell.Tab.1.right/0.25.1792.1025@0.25.1792.1025" timestamp="1640068450161" />
+    <state x="256" y="25" width="1280" height="1025" key="SettingsEditor" timestamp="1640067718001">
+      <screen x="0" y="25" width="1792" height="1025" />
+    </state>
+    <state x="256" y="25" width="1280" height="1025" key="SettingsEditor/0.25.1792.1025@0.25.1792.1025" timestamp="1640067718001" />
+    <state x="477" y="25" width="838" height="1032" key="search.everywhere.popup" timestamp="1640069321401">
+      <screen x="0" y="25" width="1792" height="1022" />
+    </state>
+    <state x="477" y="25" width="838" height="1032" key="search.everywhere.popup/0.25.1792.1022@0.25.1792.1022" timestamp="1640069321401" />
+  </component>
+</project>
